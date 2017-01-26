@@ -85,11 +85,15 @@ Makefile.in
 /libtomboy/*.la
 /libtomboy/*.lo
 
+# /m4
+/m4/*
+
 # /Tomboy
 /Tomboy/Addins/*/*.dll
 /Tomboy/Addins/*/*.dll.mdb
 /Tomboy/Addins/*/*.pidb
 /Tomboy/Addins/*/obj/
+/Tomboy/Addins/*/Makefile.in
 /Tomboy/Defines.cs
 /Tomboy/tomboy-panel
 /Tomboy/*.exe
